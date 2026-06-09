@@ -101,11 +101,6 @@ AdventureWorks Territories.xlsx
 
 ---
 
-## Screenshots
-
-Add screenshots of the dashboard pages in an `images/` folder to provide a quick preview of the report.
-
----
 
 ## Author
 
